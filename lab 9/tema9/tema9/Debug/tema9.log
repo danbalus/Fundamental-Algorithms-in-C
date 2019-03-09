@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 9\tema9\tema9\profiler.h(4): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt.h(419): note: see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 9\tema9\tema9\profiler.h(11240): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1958): note: see declaration of '_snprintf'
+  tema9.vcxproj -> C:\Users\DanB\Desktop\UTCN\Semestrul II - Dan\AF(lab)\lab 9\tema9\Debug\tema9.exe
+  tema9.vcxproj -> C:\Users\DanB\Desktop\UTCN\Semestrul II - Dan\AF(lab)\lab 9\tema9\Debug\tema9.pdb (Partial PDB)

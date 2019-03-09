@@ -1,0 +1,25 @@
+﻿  Source.cpp
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\profiler.h(4): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt.h(419): note: see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\profiler.h(11240): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1958): note: see declaration of '_snprintf'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(215): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(222): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(230): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(245): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(247): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(249): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(400): warning C4101: 'data2': unreferenced local variable
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(400): warning C4101: 'data': unreferenced local variable
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(399): warning C4101: 'g2': unreferenced local variable
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(399): warning C4101: 'g': unreferenced local variable
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(400): warning C4101: 'data1': unreferenced local variable
+c:\users\danb\desktop\utcn\semestrul ii - dan\af(lab)\lab 10\tema10\tema10\source.cpp(399): warning C4101: 'g1': unreferenced local variable
+  tema10.vcxproj -> C:\Users\DanB\Desktop\UTCN\Semestrul II - Dan\AF(lab)\lab 10\tema10\Debug\tema10.exe
+  tema10.vcxproj -> C:\Users\DanB\Desktop\UTCN\Semestrul II - Dan\AF(lab)\lab 10\tema10\Debug\tema10.pdb (Partial PDB)
